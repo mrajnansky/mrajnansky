@@ -10,9 +10,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | Docker | Nginx | Apache | .NET | C#
+- 💻 &nbsp; PHP | Docker | Nginx | Apache | Laravel | FrankenPHP | Redis | AWS
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Vue.js
-- 🛢 &nbsp; MySQL | PostgreSQL
+- 🛢 &nbsp; MySQL | PostgreSQL | ElasticSearch
 - 🖥 &nbsp; Illustrator | Photoshop | Figma
 
 <br/>
